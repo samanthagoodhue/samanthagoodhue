@@ -1,5 +1,5 @@
 <h1 align="left">Hello 👋 , I'm Sam</h1>
-<h3 align="left">Career switcher into data science with a background in data analytics and energy trading</h3>
+<h3 align="left">Career switcher into software development with a background in data analytics and energy trading</h3>
 
 - 🌱 I’m currently learning: **Django, Java**
 
